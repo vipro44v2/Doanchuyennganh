@@ -1,0 +1,6 @@
+{
+    "editor.dropIntoEditor.enabled": false,
+    "git.ignoredRepositories": [
+        "userpage"
+    ]
+}
